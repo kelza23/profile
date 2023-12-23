@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/mohho_scheduling
 excerpt: 'This study focuses on the use of a metaheuristic method, namely an enhanced multi-objective Harris’ Hawk optimiser (MO-HHO), for optimising competing objectives based on data obtained from a railway maintenance company.'
 date: 2023-08-09
-venue: '2023 IEEE International Conference on Industry 4.0, Artificial Intelligence, and Communications Technology (IAICT)'
+venue: 'IEEE'
 paperurl: 'https://doi.org/10.1109/IAICT59002.2023.10205863'
 citation: 'Y. H. Choo, V. Le, M. Johnstone, D. Creighton, H. Jindal and K. Tan, "Optimisation of Multi-objective Rolling Stock Maintenance Scheduling with Harris’ Hawk Optimiser," 2023 IEEE International Conference on Industry 4.0, Artificial Intelligence, and Communications Technology (IAICT), BALI, Indonesia, 2023, pp. 59-65, doi: 10.1109/IAICT59002.2023.10205863.'
 ---
