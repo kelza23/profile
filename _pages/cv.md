@@ -1,3 +1,5 @@
+
+
 ---
 layout: archive
 title: "CV"
@@ -11,15 +13,15 @@ redirect_from:
 
 Education
 ======
-* B.Eng.(Honours) in Civil Engineering, Deakin University, 2019
 * Ph.D in Optimisation and Operation Research (OR), Deakin University, 2024 (expected)
+* B.Eng.(Honours) in Civil Engineering, Deakin University, 2019
 
-Work experience
+Work Experience
 ======
 * IISRI — Institute for Intelligent Systems Research and Innovation
   * Geelong, Victoria, Australia
-  * Research Fellow
-  * Aug 2023 - Present (5 month)
+  * Research Fellow - Operations Analytics
+  * Aug 2023 - Present
 
 Skills
 ======
