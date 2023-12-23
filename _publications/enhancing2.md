@@ -1,15 +1,13 @@
 ---
-title: "Enhancing the Harris’ Hawk optimiser for single- and multi-objective optimisation"
+title: "Optimisation of Multi-objective Rolling Stock Maintenance Scheduling with Harris’ Hawk Optimiser"
 collection: publications
-permalink: /publication/enhancing
-excerpt: 'This paper proposes an enhancement to the Harris’ Hawks Optimisation (HHO) algorithm.'
-date: 2023-07-27
-venue: 'Soft Computing'
-paperurl: 'https://kelza23.github.io/profile/files/s00500-023-08952-w.pdf'
-citation: 'Choo, Y.H., Cai, Z., Le, V. et al. Enhancing the Harris’ Hawk optimiser for single- and multi-objective optimisation. Soft Comput 27, 16675–16715 (2023). https://doi.org/10.1007/s00500-023-08952-w.'
+permalink: /publication/mohho_scheduling
+excerpt: 'This study focuses on the use of a metaheuristic method, namely an enhanced multi-objective Harris’ Hawk optimiser (MO-HHO), for optimising competing objectives based on data obtained from a railway maintenance company.'
+date: 2023-08-09
+venue: '2023 IEEE International Conference on Industry 4.0, Artificial Intelligence, and Communications Technology (IAICT)'
+paperurl: 'https://doi.org/10.1109/IAICT59002.2023.10205863'
+citation: 'Y. H. Choo, V. Le, M. Johnstone, D. Creighton, H. Jindal and K. Tan, "Optimisation of Multi-objective Rolling Stock Maintenance Scheduling with Harris’ Hawk Optimiser," 2023 IEEE International Conference on Industry 4.0, Artificial Intelligence, and Communications Technology (IAICT), BALI, Indonesia, 2023, pp. 59-65, doi: 10.1109/IAICT59002.2023.10205863.'
 ---
-This paper proposes an enhancement to the Harris’ Hawks Optimisation (HHO) algorithm. Firstly, an enhanced HHO (EHHO) model is developed to solve single-objective optimisation problems (SOPs). EHHO is then further extended to a multi-objective EHHO (MO-EHHO) model to solve multi-objective optimisation problems (MOPs). In EHHO, a nonlinear exploration factor is formulated to replace the original linear exploration method, which improves the exploration capability and facilitate the transition from exploration to exploitation. In addition, the Differential Evolution (DE) scheme is incorporated into EHHO to generate diverse individuals. To replace the DE mutation factor, a chaos strategy that increases randomness to cover wider search areas is adopted. The non-dominated sorting method with the crowding distance is leveraged in MO-EHHO, while a mutation mechanism is employed to increase the diversity of individuals in the external archive for addressing MOPs. Benchmark SOPs and MOPs are used to evaluate EHHO and MO-EHHO models, respectively. The sign test is employed to ascertain the performance of EHHO and MO-EHHO from the statistical perspective. Based on the average ranking method, EHHO and MO-EHHO indicate their efficacy in tackling SOPs and MOPs, as compared with those from the original HHO algorithm, its variants, and many other established evolutionary algorithms.
+In line with Industry 4.0, various advanced technologies such as sensors, automation, and artificial intelligence (AI) methods have been leveraged to enhance maintenance processes in the rolling stock industry. In particular, AI techniques are useful for optimising maintenance scheduling and planning tasks for rolling stocks. This study focuses on the use of a metaheuristic method, namely an enhanced multi-objective Harris’ Hawk optimiser (MO-HHO), for optimising competing objectives based on data obtained from a railway maintenance company. The results of MO-HHO are evaluated and compared with those from other competing models. The findings demonstrate the usefulness of MO-HHO in tackling multi-objective train maintenance scheduling tasks in practical environments.
 
-[Download paper here](https://doi.org/10.1007/s00500-023-08952-w)
-
-Recommended citation: Choo, Y.H., Cai, Z., Le, V. et al. Enhancing the Harris’ Hawk optimiser for single- and multi-objective optimisation. Soft Comput 27, 16675–16715 (2023). https://doi.org/10.1007/s00500-023-08952-w.
+[Download paper here](https://doi.org/10.1109/IAICT59002.2023.10205863)

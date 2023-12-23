@@ -1,5 +1,3 @@
-
-
 ---
 layout: archive
 title: "CV"
@@ -25,12 +23,27 @@ Work Experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * LaTeX
+  * Tableau
+  * PowerBI
+  * Machine Learning algorithms
+* Microsoft Office Suite
+  * Word
+  * Excel
+  * PowerPoint
+* Languages
+  * English
+  * Mandarin
+  * Cantonese
+  * Bahasa (Malay)
+
+Projects
+======
+  <ul>{% for post in site.portfolio %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
@@ -43,3 +56,6 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+
+<embed src="profile/files/resume_cv.pdf" type="application/pdf">

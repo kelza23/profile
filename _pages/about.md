@@ -8,24 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a passionate and innovative engineering professional with a track record of excellence. I currently hold the position of Research Fellow in Operations Analytics at the Institute for Intelligent Systems Research and Innovation (IISRI) at Deakin University. My primary role involves spearheading cutting-edge research to optimise operations in complex transportation networks, which builds upon my extensive experience. I have a Doctor of Philosophy (Engineering) from Deakin University, where my research focused on improving Integrated Operation Centres (IOCs) and developing state-of-the-art optimisation algorithms and machine learning models. I have also presented my findings at numerous national and international conferences. My journey started with a Bachelor of Civil Engineering (Honours) at Deakin University, where my final year project was recognised for its industry collaboration. Additionally, my practical experience as a Student Engineer at the City of Greater Geelong has honed my problem-solving skills. I am eager to explore opportunities that allow me to apply my expertise and drive innovation in the engineering domain. Let's connect and explore potential collaborations.
+I am a Research Fellow in Operations Analytics at the Institute for Intelligent Systems Research and Innovation (IISRI), Deakin University, Australia. I hold a PhD in engineering from Deakin University, and I specialize in developing optimisation algorithms and machine learning models for solving real-world problems. My passion is to drive innovation using Artificial Intelligence (AI) in complex transportation networks and human performance enhancement. I am interested in exploring opportunities for collaboration to further these areas of interest.
 
 My Work and Research
 ======
-
-
-My Experiences
-======
-**PhD Candidate**
-- Analysing and improving an Integrated Operation Centre (IOC) efficiency for complex transportation networks.
-- Developing state-of-the-art optimisation algorithms and machine learning models for real-world problems.
-- Researching a human-computer teaming framework to improve the efficacy of traffic monitoring, scheduling, and maintenance tasks for a next-generation IOC in the transportation sector.
-- Receiving financial and industrial support from Rail Manufacturing CRC in PhD research
-- Created effective reports, wrote scientific papers, and published research findings in journal articles.
-- Attended several domestic and international conferences to present the analysis and results of the research project.
+As an engineering professional specialising in operations analytics, my role at IISRI, Deakin University, focuses on optimising complex transportation networks. My Doctor of Philosophy (Engineering) from Deakin University involved significant research in enhancing Integrated Operation Centres (IOCs) and developing advanced optimisation algorithms and machine learning models. Earlier, my professional path includes a role as a Student Engineer at the City of Greater Geelong, where I honed significant problem-solving skills. As a seasoned presenter, I have shared my findings at various national and international conferences.
 
 Blog Posts
 ======
   <ul>{% for post in site.posts %}
-    {% include archive-single.html %}
-  {% endfor %}</ul>
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}</ul>
