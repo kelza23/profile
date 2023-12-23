@@ -2,7 +2,7 @@
 title: "Enhancing the Harris’ Hawk optimiser for single- and multi-objective optimisation"
 collection: publications
 permalink: /publication/enhancinghho
-excerpt: 'This paper proposes an enhancement to the Harris’ Hawks Optimisation (HHO) algorithm.'
+excerpt: 'This paper proposes an enhancement to the Harris’ Hawks Optimisation (HHO) algorithm for solving single- and multi-objective optimisation problems.'
 date: 2023-07-27
 venue: 'Soft Computing'
 paperurl: 'https://kelza23.github.io/profile/files/s00500-023-08952-w.pdf'
