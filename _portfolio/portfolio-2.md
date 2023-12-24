@@ -6,7 +6,7 @@ collection: portfolio
 
 Machine Learning (ML)-based Network Intrusion Detection Systems (NIDSs) have proven to become a crucial technique for detecting malicious network activities from cyber criminals [1,2,3]. This research leverages a decision tree to differentiate and classify between normal network activities and invasions. The model is trained with the UNSW-NB15 dataset.  While each data sample comprises many features, not all are discriminative in the classification task. An ensemble multi-objective Harris’ hawk optimiser is designed and developed to optimise the model with multiple objectives, viz., minimising the number of features, maximising sensitivity, and maximising specificity.
 
-[Download poster here](https://kelza23.github.io/profile/files/DSS_Poster_(Kelvin).pdf)
+[Download poster here](https://kelza23.github.io/files/DSS_Poster_(Kelvin).pdf)
 
 ### References
 [1] Moustafa, Nour, and Jill Slay. "UNSW-NB15: a comprehensive data set for network intrusion detection systems (UNSW-NB15 network data set)." Military Communications and Information Systems Conference (MilCIS), 2015. IEEE, 2015.

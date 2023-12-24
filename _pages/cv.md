@@ -58,4 +58,4 @@ Talks
   {% endfor %}</ul>
 
 
-<embed src="https://kelza23.github.io/profile/files/resume_cv.pdf" type="application/pdf">
+<embed src="https://kelza23.github.io/files/resume_cv.pdf" type="application/pdf">

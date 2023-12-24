@@ -22,4 +22,5 @@ Blog Posts
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
+  {% include archive-single-cv.html %}
 {% endfor %}</ul>
