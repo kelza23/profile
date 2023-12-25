@@ -9,4 +9,7 @@ collection: portfolio
 
 Machine Learning (ML)-based Network Intrusion Detection Systems (NIDSs) have proven to become a crucial technique for detecting malicious network activities from cyber criminals. This research leverages a decision tree to differentiate and classify between normal network activities and invasions. The model is trained with the UNSW-NB15 dataset. While each data sample comprises many features, not all are discriminative in the classification task. An ensemble multi-objective Harris’ hawk optimiser is designed and developed to optimise the model with multiple objectives, viz., minimising the number of features, maximising sensitivity, and maximising specificity.
 
+[Read the publication post here](https://kelza23.github.io//publication/prml2023)
+
 [Download paper here](https://doi.org/10.1109/PRML59573.2023.10348265)
+

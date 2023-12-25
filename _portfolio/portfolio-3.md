@@ -12,3 +12,5 @@ I led the development of a decision support tool to improve the scheduling of ro
 One of the notable achievements of this project was accurately predicting the duration of brake maintenance, which helped streamline maintenance scheduling. I also regularly held meetings with stakeholders to gather information on business rules, constraints, and requirements, which helped me create mathematical models for multi-objective optimisation of maintenance scheduling tasks.
 
 To expand the scope of the project, I created a simulation-based optimisation model that included What-if scenario analysis to evaluate the maintenance schedule thoroughly. My contributions to this comprehensive project have significantly improved the efficiency and reliability of rolling-stock maintenance operations.
+
+[Read the publication post here](https://kelza23.github.io//publication/iaict2023)
