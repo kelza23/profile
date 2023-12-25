@@ -1,6 +1,6 @@
 ---
 title: "Optimising Network Intrusion Detection Systems with Ensemble Multi-objective Harris' Hawks Optimiser"
-excerpt: "Utilising well-known decision tree classifier to classify the normal network activity and network anomalies."
+excerpt: "Utilised well-known decision tree classifier to classify the normal network activity and network anomalies."
 collection: portfolio
 ---
 
