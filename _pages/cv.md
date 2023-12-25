@@ -57,5 +57,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+[Download my CV here](https://kelza23.github.io/files/resume_cv.pdf)
 
 <embed src="https://kelza23.github.io/files/resume_cv.pdf" type="application/pdf">
