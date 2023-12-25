@@ -1,7 +1,7 @@
 ---
 title: 'Assistant Coach of the 2022 Victorian U22 Mixed Team'
 date: 2023-07-09
-permalink: /posts/2022/u22/
+permalink: /posts/2022/07/u22/
 tags:
   - Ultimate Frisbee
   - Coaching

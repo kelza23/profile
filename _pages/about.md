@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow in Operations Analytics at the Institute for Intelligent Systems Research and Innovation (IISRI), Deakin University, Australia. I hold a PhD in engineering from Deakin University, and I specialize in developing optimisation algorithms and machine learning models for solving real-world problems. My passion is to drive innovation using Artificial Intelligence (AI) in complex transportation networks and human performance enhancement. I am interested in exploring opportunities for collaboration to further these areas of interest.
+I am a Research Fellow in Operations Analytics at the Institute for Intelligent Systems Research and Innovation (IISRI), Deakin University, Australia. I hold a PhD in engineering from Deakin University, and I specialise in developing optimisation algorithms and machine learning models for solving real-world problems. My passion is to drive innovation using Artificial Intelligence (AI) in complex transportation networks and human performance enhancement. I am interested in exploring opportunities for collaboration to further these areas of interest.
 
 My Work and Research
 ======
@@ -16,13 +16,7 @@ As an engineering professional specialising in operations analytics, my role at 
 
 My Extracurricular Activity
 ======
-I am delighted to share that I have been promoted to the position of Head Coach for the Victorian U22 team for 2023. This is a testament to my leadership abilities and coaching expertise in creating effective strategies and fostering player development. As the Head Coach, my primary responsibility is to prepare the Victorian U22 team for competitions. This includes developing and executing training programs, strategic planning for games, managing player performance, and ensuring a cohesive team environment. I take pride in providing constructive feedback and guidance through post-action reviews, using my observations from training sessions and games to facilitate continuous improvement.
-
-Along with my role as Head Coach, I am passionate about promoting sportsmanship, inclusiveness, and the joy of Ultimate Frisbee among primary and secondary school children as an Ulti-mates Coach. This involves developing and delivering training programs to introduce children to the sport, teaching them the fundamentals, and helping them to develop their skills and confidence. Additionally, I have received the Ellipsis Coaching Scholarship to further my coaching career in ultimate frisbee and have completed my UA Level 2 – Development Coach course.
-
-Apart from my coaching roles, I am an active player of the Geelong Mudlarks Ultimate Frisbee Club and responsible for managing the club's financial operations, including budgeting, expense tracking, and financial reporting. I am committed to high-level performance and teamwork, as reflected by my participation in the Australia Ultimate Championship. Notably, our club has achieved three consecutive championship victories in 2018, 2021, and 2022, underscoring our unwavering dedication and consistent success.
-
-I am also proactive in seeking sponsorship opportunities to support the club's growth, enhance its resources, and build enduring partnerships with local businesses and organisations. My multifaceted involvement reflects my dedication to both the administrative and competitive aspects of Ultimate Frisbee and demonstrates my ability to contribute to the holistic success of the sport and its community.
+I have been promoted to Head Coach for the Victorian U22 team for 2023. My responsibilities include developing training programs, strategic planning for games, managing player performance, and ensuring a cohesive team environment. I am also an Ulti-mates Coach, promoting sportsmanship, inclusiveness, and the joy of Ultimate Frisbee among primary and secondary school children. I have received the Ellipsis Coaching Scholarship to further my coaching career in ultimate frisbee and have completed my UA Level 2 – Development Coach course. Additionally, I am an active player and treasurer of the Geelong Mudlarks Ultimate Frisbee Club and responsible for managing the club's financial operations. I am committed to high-level performance and teamwork, as reflected by my participation in the Australia Ultimate Championship. Notably, our club has achieved three consecutive championship victories in 2018, 2021, and 2022, underscoring our unwavering dedication and consistent success.
 
 Blog Posts
 ======
