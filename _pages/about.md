@@ -16,11 +16,21 @@ As an engineering professional specialising in operations analytics, my role at 
 
 Blog Posts
 ======
-  <ul>{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+{% for post in site.posts %}
+  <div class="{{ include.type | default: "list" }}__item">
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      <h2 class="archive__item-title" itemprop="headline">
+        <a href="{{ post.url }}" rel="permalink">{{ post.title }}</a>
+      </h2>
+      <p class="page__date">
+        <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> 
+        <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
+      </p>
+      <p class="archive__item-excerpt" itemprop="description">
+        {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
+        <strong><a href="{{ post.url }}" rel="permalink"> Read more</a></strong>
+      </p>
+    </article>
+  </div>
+{% endfor %}
+
