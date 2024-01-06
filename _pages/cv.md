@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-### Doctor of Philosophy (Engineering)
+[Download my CV here](https://kelza23.github.io/files/resume_cv.pdf)
+
+# Education
+### Doctor of Philosophy (Engineering)  
 *Institute for Intelligent Systems Research and Innovation (IISRI), Deakin University*  
 *Geelong, Australia*  
 *Jan. 2020 - Aug. 2023*  
@@ -23,7 +24,7 @@ Education
 * Produced comprehensive reports, authored scientific papers, and successfully published research findings in esteemed journal articles.
 * Actively contributed to the academic community by presenting critical analyses and research results at various domestic and international conferences.
 
-### Bachelor of Civil Engineering (Honours)
+### Bachelor of Civil Engineering (Honours)  
 *UCSI University & Deakin University*  
 *Kuala Lumpur, Malaysia & Geelong, Australia*  
 *May 2015 - Dec. 2016 & Feb. 2017 - Dec 2019*  
@@ -32,7 +33,7 @@ Education
 * Distinguished final year project focused on "Water Treatment with Plant-Based Materials," which garnered recognition from the School of Engineering at Deakin University. [View Showcase](https://www.deakin.edu.au/engineering/showcase)
 * Investigated the efficacy of utilising locally available plant materials in Victoria for the removal of heavy metals from water, emphasising the potential for a cost-effective and sustainable water treatment approach.
 
-### Foundation in Science (Engineering)
+### Foundation in Science (Engineering)  
 *UCSI University*  
 *Kuala Lumpur, Malaysia*  
 *May 2014 - Apr. 2015*  
@@ -42,9 +43,8 @@ Education
 * This program has provided me with essential knowledge and skills for my academic and professional pursuits.
 * For more information about this program, please visit here.
 
-Work Experience
-======
-### Research Fellow - Operations Analytics
+# Work Experience
+### Research Fellow - Operations Analytics  
 *Institute for Intelligent Systems Research and Innovation (IISRI), Deakin University*  
 *Geelong, Australia*  
 *Aug. 2023 - Present*  
@@ -54,7 +54,7 @@ Work Experience
 * Take a leadership role in establishing and managing industry partnerships and collaborations, translating research outcomes into practical solutions with tangible real-world impact.
 * Demonstrate a commitment to the growth and success of higher degree research (HDR) students by providing effective supervision, ensuring timely completions, and delivering high-quality research outcomes that contribute to academic excellence.
 
-### Research Assistant
+### Research Assistant  
 *School of Engineering, Deakin University*  
 *Geelong, Australia*  
 *Nov. 2019 - Dec. 2019*  
@@ -62,7 +62,7 @@ Work Experience
 * Extended the scope of my final year project by implementing a well-established methodology to analyse the effectiveness of plant materials in removing heavy metals from wastewater, demonstrating adaptability and problem-solving skills.
 * Pioneered the discovery and identification of new native Australian plant materials with the unique ability to adsorb heavy metals, contributing valuable insights to the field of environmental science and sustainability.
 
-### Program Delivery - Student Engineer
+### Program Delivery - Student Engineer  
 *City of Greater Geelong*  
 *Geelong, Australia*  
 *Dec. 2018 - Nov. 2019*  
@@ -102,6 +102,5 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-[Download my CV here](https://kelza23.github.io/files/resume_cv.pdf)
 
 <embed src="https://kelza23.github.io/files/resume_cv.pdf" type="application/pdf">
