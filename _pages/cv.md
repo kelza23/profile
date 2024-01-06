@@ -19,7 +19,7 @@ Education
 * Spearheaded an extensive research project focused on enhancing the efficiency of Integrated Operation Centres (IOCs) within complex transportation networks.
 * Pioneered the development of state-of-the-art optimisation algorithms and machine learning models tailored to address real-world challenges in the transportation sector.
 * Conducted groundbreaking research in the realm of human-computer teaming, resulting in the creation of a framework that significantly improved the effectiveness of traffic monitoring, scheduling, and maintenance tasks, paving the way for next-generation IOCs.
-* Secured invaluable financial and industrial support from the Rail Manufacturing CRC to advance and elevate the scope of my PhD research. [More about the support](https://rmcrc.com.au/yit-hong-choo/)
+* Secured invaluable financial and industrial support from the Rail Manufacturing CRC to advance and elevate the scope of my PhD research. [More about the project](https://rmcrc.com.au/yit-hong-choo/)
 * Produced comprehensive reports, authored scientific papers, and successfully published research findings in esteemed journal articles.
 * Actively contributed to the academic community by presenting critical analyses and research results at various domestic and international conferences.
 
@@ -29,7 +29,7 @@ Education
 *May 2015 - Dec. 2016 & Feb. 2017 - Dec 2019*
 
 * Completed the prestigious International Degree Programme (IDP) offered by UCSI University, allowing for seamless transfer to Deakin University, Australia.
-* Distinguished final year project focused on "Water Treatment with Plant-Based Materials," which garnered recognition from the School of Engineering at Deakin University. ![View Showcase](https://www.deakin.edu.au/engineering/showcase)
+* Distinguished final year project focused on "Water Treatment with Plant-Based Materials," which garnered recognition from the School of Engineering at Deakin University. [View Showcase](https://www.deakin.edu.au/engineering/showcase)
 * Investigated the efficacy of utilising locally available plant materials in Victoria for the removal of heavy metals from water, emphasising the potential for a cost-effective and sustainable water treatment approach.
 
 **Foundation in Science (Engineering)**
