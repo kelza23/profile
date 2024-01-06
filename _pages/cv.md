@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 **Doctor of Philosophy (Engineering)**
-
 *Institute for Intelligent Systems Research and Innovation (IISRI), Deakin University*
-*Geelong, Australia*
-*Jan. 2020 - Aug. 2023*
+
+Geelong, Australia
+Jan. 2020 - Aug. 2023
 
 * Spearheaded an extensive research project focused on enhancing the efficiency of Integrated Operation Centres (IOCs) within complex transportation networks.
 * Pioneered the development of state-of-the-art optimisation algorithms and machine learning models tailored to address real-world challenges in the transportation sector.
@@ -25,20 +25,20 @@ Education
 * Actively contributed to the academic community by presenting critical analyses and research results at various domestic and international conferences.
 
 **Bachelor of Civil Engineering (Honours)**
-
 *UCSI University & Deakin University*
-*Kuala Lumpur, Malaysia & Geelong, Australia*
-*May 2015 - Dec. 2016 & Feb. 2017 - Dec 2019*
+
+Kuala Lumpur, Malaysia & Geelong, Australia
+May 2015 - Dec. 2016 & Feb. 2017 - Dec 2019
 
 * Completed the prestigious International Degree Programme (IDP) offered by UCSI University, allowing for seamless transfer to Deakin University, Australia.
 * Distinguished final year project focused on "Water Treatment with Plant-Based Materials," which garnered recognition from the School of Engineering at Deakin University. [View Showcase](https://www.deakin.edu.au/engineering/showcase)
 * Investigated the efficacy of utilising locally available plant materials in Victoria for the removal of heavy metals from water, emphasising the potential for a cost-effective and sustainable water treatment approach.
 
 **Foundation in Science (Engineering)**
-
 *UCSI University*
-*Kuala Lumpur, Malaysia*
-*May 2014 - Apr. 2015*
+
+Kuala Lumpur, Malaysia
+May 2014 - Apr. 2015
 
 * Successfully completed the comprehensive "Foundation in Science (Engineering)" program at UCSI University.
 * Acquired a strong academic foundation in the sciences and engineering disciplines.
@@ -48,10 +48,10 @@ Education
 Work Experience
 ======
 **Research Fellow - Operations Analytics**
-
 *Institute for Intelligent Systems Research and Innovation (IISRI), Deakin University*
-*Geelong, Australia*
-*Aug. 2023 - Present*
+
+Geelong, Australia
+Aug. 2023 - Present
 
 * Collaboratively engage in the development of innovative and high-impact research initiatives, fostering a culture of creativity and excellence within the team.
 * Initiate, design, and execute interdisciplinary research collaborations, driving advancements in knowledge and problem-solving, leading to significant breakthroughs in our understanding of complex issues.
@@ -59,19 +59,19 @@ Work Experience
 * Demonstrate a commitment to the growth and success of higher degree research (HDR) students by providing effective supervision, ensuring timely completions, and delivering high-quality research outcomes that contribute to academic excellence.
 
 **Research Assistant**
-
 *School of Engineering, Deakin University*
-*Geelong, Australia*
-*Nov. 2019 - Dec. 2019*
+
+Geelong, Australia
+Nov. 2019 - Dec. 2019
 
 * Extended the scope of my final year project by implementing a well-established methodology to analyse the effectiveness of plant materials in removing heavy metals from wastewater, demonstrating adaptability and problem-solving skills.
 * Pioneered the discovery and identification of new native Australian plant materials with the unique ability to adsorb heavy metals, contributing valuable insights to the field of environmental science and sustainability.
 
 **Program Delivery - Student Engineer**
-
 *City of Greater Geelong*
-*Geelong, Australia*
-*Dec. 2018 - Nov. 2019*
+
+Geelong, Australia
+Dec. 2018 - Nov. 2019
 
 * Led engineering projects, developing, assessing, and implementing effective solutions, showcasing problem-solving skills and technical proficiency.
 * Collaborated closely with community members to address infrastructure-related challenges, demonstrating strong interpersonal and communication abilities.
