@@ -82,21 +82,21 @@ analytics:
 author:
   name             : "Kelvin Choo"
   avatar           : kelvin_profile.jpg
-  bio              : "Operations Research | Ultimate Frisbee Coach"
+  bio              : "Operations Research | Decision Support Systems | Ultimate Frisbee Coach"
   location         : "Geelong, Australia"
   employer         : "IISRI, Deakin University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rVMsWe8AAAAJ&hl=en"
   email            : "y.choo@deakin.edu.au"
-  researchgate     : "https://www.researchgate.net/profile/Yit-Hong-Choo"
-  uri              :
+  researchgate     : "Yit-Hong-Choo" #https://www.researchgate.net/profile/
+  uri              : "https://www.deakin.edu.au/about-deakin/people/yit-hong-choo"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://github.com/kelza23"
   google_plus      :
   keybase          :
   instagram        :

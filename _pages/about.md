@@ -28,6 +28,9 @@ As I move forward in my academic and professional journey, I am motivated by my 
 # My Extracurricular Activity  
 I am involved in extracurricular activities that go beyond academics. These activities allow me to channel my passion for sports and coaching into initiatives that have a positive impact.
 
+**Active Player & Treasurer - Geelong Mudlarks Ultimate Frisbee Club:**  
+As the treasurer of the Geelong Mudlarks Ultimate Frisbee Club, I am responsible for managing the club's finances. This role has helped me develop my administrative skills and strengthened my commitment to the Ultimate Frisbee community. Being an active player, I have played a crucial role in the club's success, which includes three consecutive championship victories in 2018, 2021, and 2022. This showcases our unwavering dedication to teamwork and high-level performance.
+
 **Head Coach - Victorian U22 Team (2023):**  
 I am excited to share that I have been selected as the Head Coach for the Victorian U22 team in 2023. As Head Coach, my responsibilities include developing comprehensive training programs, devising strategic game plans, managing player performance, and fostering a cohesive team environment. This leadership role reflects my passion for sports coaching and my commitment to enhancing human performance.
 
@@ -39,9 +42,6 @@ I was awarded the prestigious Ellipsis Coaching Scholarship, which has helped me
 
 **Ultimate Australia Level 2 - Development Coach:**  
 I have successfully completed the UA Level 2 - Development Coach course, further enhancing my coaching capabilities and qualifications.
-
-**Active Player & Treasurer - Geelong Mudlarks Ultimate Frisbee Club:**  
-As the treasurer of the Geelong Mudlarks Ultimate Frisbee Club, I am responsible for managing the club's finances. This role has helped me develop my administrative skills and strengthened my commitment to the Ultimate Frisbee community. Being an active player, I have played a crucial role in the club's success, which includes three consecutive championship victories in 2018, 2021, and 2022. This showcases our unwavering dedication to teamwork and high-level performance.
 
 # Blog Posts  
 {% for post in site.posts %}
