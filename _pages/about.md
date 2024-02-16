@@ -20,7 +20,7 @@ My initial research focused on developing decision support systems for complex t
 In my recent research, I delved into multifaceted domains that encompass biomechanical analysis and computer vision, prompting me to fuse decision support systems with machine learning and deep learning.
 
 **Sports Analytics:**  
-I am currently working on some side projects that use computer vision to extract useful information from sports data. This helps me improve coaching strategies and assess player performance. As the Head Coach for the Victorian U22 team, I use data-driven techniques to develop training programs, plan games strategically, and manage player performance effectively.
+I am currently working on some side projects that use machine learning methods to extract useful information from sports data. This helps me improve coaching strategies and assess player performance. As the Head Coach for the Victorian U22 team, I use data-driven techniques to develop training programs, plan games strategically, and manage player performance effectively.
 
 **Future Exploration:**  
 As I move forward in my academic and professional journey, I am motivated by my passion for exploring the cutting-edge of artificial intelligence in the fields of sports analytics, coaching science, and human performance enhancement. My research path is a reflection of my commitment to unlocking human potential through data-driven innovations.
